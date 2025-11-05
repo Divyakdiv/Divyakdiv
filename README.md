@@ -33,6 +33,7 @@
 | [0009-palindrome-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/0009-palindrome-number) |
 | [0224-basic-calculator](https://github.com/Divyakdiv/Divyakdiv/tree/master/0224-basic-calculator) |
 | [0507-perfect-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/1013-fibonacci-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Divyakdiv/Divyakdiv/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -65,6 +66,15 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Divyakdiv/Divyakdiv/tree/master/0224-basic-calculator) |
+| [1013-fibonacci-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->## Hi there 👋
 
 <!--
