@@ -4,7 +4,7 @@
 🌱 Skilled in **Java (Core & Advanced)**, **SQL**, and **Web Technologies (HTML, CSS, JavaScript)**.  
 🔍 I focus on improving my coding logic through daily practice and building small projects using Java and MySQL.  
 🚀 Exploring opportunities as a **Technical Product Specialist / Java Developer** to apply my technical and analytical skills.  
-✨ Consistency and discipline are my strengths — I believe small progress every day builds big results.
+✨ Consistency and discipline are my strengths — I believe small progress every day builds big results..
 
 
 
@@ -82,6 +82,6 @@
 <!---LeetCode Topics End-->## Hi there 👋
 
 <!--
-**Divyakdiv/Divyakdiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Divyakdiv/Divyakdiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 
 
